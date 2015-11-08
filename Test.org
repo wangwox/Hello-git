@@ -14,3 +14,10 @@ public class Test
   }
 }
 #+END_EXAMPLE
+* 测试一下表格
+| name |   age | address  |
+| a    |     1 | beijing  |
+| b    |    17 | tianjing |
+| c    |   170 | shanghai |
+| d    |  1700 | shenzhen |
+| e    | 17000 | ??       |
