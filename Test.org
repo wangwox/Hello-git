@@ -4,3 +4,13 @@
 - 第二次提交
 -----
 测试一下对org格式的支持
+* 测试一下代码高亮
+#+BEGIN_EXAMPLE java
+public class Test
+{
+  public static void main(String args[])
+  {
+    System.out.println("test");
+  }
+}
+#+END_EXAMPLE
